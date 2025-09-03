@@ -18,4 +18,4 @@ Wir danken Ihnen für Ihr Interesse an diesem Projekt! Hier sind einige Schritte
    ```
 6. **Öffnen Sie eine Pull-Request.**
 
-Wir freuen uns auf Ihre Beiträge!
+Wir freuen uns über Ihre Beiträge!
