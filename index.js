@@ -1,9 +1,9 @@
-// Einstiegspunkt der Anwendung
+// Entry point of the application
 const VersionskontrolleEasy = require('./vce');
 
 const vce = new VersionskontrolleEasy();
 
-// Beispielbefehle
+// Example commands
 vce.init('mein-projekt');
 vce.track('meine-datei.txt');
 vce.commit('Meine erste Änderung');
