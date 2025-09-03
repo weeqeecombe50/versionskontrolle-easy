@@ -1,0 +1,13 @@
+{
+  "name": "versionskontrolle-easy",
+  "version": "1.0.0",
+  "description": "Ein benutzerfreundliches Tool zur Versionskontrolle.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "keywords": ["versionskontrolle", "git", "tools"],
+  "author": "Ihr Name",
+  "license": "MIT"
+}
