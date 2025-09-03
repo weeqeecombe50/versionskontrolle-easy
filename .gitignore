@@ -5,5 +5,4 @@ node_modules/
 coverage/
 build/
 *.log
-.idea/
 *.tmp
