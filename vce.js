@@ -9,7 +9,7 @@ class VersionskontrolleEasy {
         if (this.projekte[projektName]) {
             console.log(`Projekt '${projektName}' existiert bereits.`);
         } else {
-            this.projekte[projektName] = { dateien: [], änderungen: [] };
+            this.projekte[projektName] = { dateien: [], aenderungen: [] };
             console.log(`Projekt '${projektName}' erfolgreich initialisiert.`);
         }
     }
