@@ -16,6 +16,6 @@ Wir danken Ihnen für Ihr Interesse an diesem Projekt! Hier sind einige Schritte
    ```bash
    git push origin mein-neues-feature
    ```
-6. **Öffnen Sie eine Pull-Request.**
+6. **Öffnen Sie eine Pull-Request,** damit wir Ihre Änderungen überprüfen können.
 
 Wir freuen uns über Ihre Beiträge!
