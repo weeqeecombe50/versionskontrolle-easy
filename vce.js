@@ -1,4 +1,4 @@
-// Hauptfunktionalität des Versionskontrolle Easy
+// Hauptfunktionalität des Versionskontrollsystems Easy
 
 class VersionskontrolleEasy {
     constructor() {
@@ -15,7 +15,7 @@ class VersionskontrolleEasy {
     }
 
     track(datei) {
-        // Logik zum Verfolgen von Änderungen
+        // Logik zum Verfolgen von Dateien
         console.log(`Überwachung der Datei: ${datei}`);
     }
 
